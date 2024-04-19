@@ -1,0 +1,12 @@
+{
+  "name": "famous-quote",
+  "version": "1.0.0",
+  "description": "A famous quote and it's author.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
